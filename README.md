@@ -2,6 +2,8 @@
 doc.spring.io 中文文档。日积月累，水滴石穿  
 https://spring.io/projects/
 
+https://docs.spring.io/spring-data/
+
 ## [JPA](https://gaogushenling.github.io/springdoc/jpa)
 https://spring.io/projects/spring-data-jpa
 
